@@ -1,0 +1,5 @@
+WSN_HA	Bloom_lab	transcript	1	1759	.	+	.	transcript_id "WSN_HA";
+WSN_HA	Bloom_lab	start_codon	28	30	.	+	0	transcript_id "WSN_HA";
+WSN_HA	Bloom_lab	CDS	28	1722	.	+	0	transcript_id "WSN_HA";
+WSN_HA	Bloom_lab	exon	1	1759	.	+	0	transcript_id "WSN_HA";
+WSN_HA	Bloom_lab	stop_codon	1723	1725	.	+	0	transcript_id "WSN_HA";

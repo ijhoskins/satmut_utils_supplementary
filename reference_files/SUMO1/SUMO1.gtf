@@ -1,0 +1,5 @@
+SUMO1_pHYC	Roth_lab	transcript	1	494	.	+	.	transcript_id "SUMO1_pHYC";
+SUMO1_pHYC	Roth_lab	start_codon	76	78	.	+	0	transcript_id "SUMO1_pHYC";
+SUMO1_pHYC	Roth_lab	CDS	76	366	.	+	0	transcript_id "SUMO1_pHYC";
+SUMO1_pHYC	Roth_lab	exon	1	494	.	+	0	transcript_id "SUMO1_pHYC";
+SUMO1_pHYC	Roth_lab	stop_codon	367	369	.	+	0	transcript_id "SUMO1_pHYC";

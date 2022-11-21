@@ -1,0 +1,7 @@
+sample_name	experiment_replicate	selection_id	selection_replicate	technical_replicate	pair1	pair2
+SRR3113656	1	0			SRR3113656_1.fastq.gz	SRR3113656_2.fastq.gz
+SRR3113657	2	0			SRR3113657_1.fastq.gz	SRR3113657_2.fastq.gz
+SRR3113658	3	0			SRR3113658_1.fastq.gz	SRR3113658_2.fastq.gz
+SRR3113660	1	1	1		SRR3113660_1.fastq.gz	SRR3113660_2.fastq.gz
+SRR3113661	2	1	1		SRR3113661_1.fastq.gz	SRR3113661_2.fastq.gz
+SRR3113662	3	1	1		SRR3113662_1.fastq.gz	SRR3113662_2.fastq.gz
